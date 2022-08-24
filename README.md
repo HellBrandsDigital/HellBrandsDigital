@@ -1,6 +1,6 @@
-- 👋 Hello from Hell Brands Digital
+- 👋 Hello from <a href="https://www.hell-brands.com">Hell Brands Digital</a>
 - 👀 I’m interested in creating Apps & Games
-- 🌱 I’m currently learning Flutter & Unity
+- 🌱 I’m currently learning Unity, Python, C++
 - 📫 How to reach me: info@hell-brands.com
 
 <!---
